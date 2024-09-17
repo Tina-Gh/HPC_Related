@@ -6,6 +6,17 @@
 <a href="https://wvuhpc.github.io/2018-Lesson_4/03-openmp/index.html" target="_blank">OpenMP code examples</a>
 
 
+## Additional material:
+
+
+<a href="https://hpc-tutorials.llnl.gov/openmp/" target="_blank">Lawrence Livermore National Laboratory</a>
+
+
+
+
+
+
+
 
 
 
