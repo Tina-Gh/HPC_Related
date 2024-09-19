@@ -5,7 +5,7 @@
 
 <b>University of Göttingen & Max Planck Society (GWDG):</b>
 
-1. <a href="https://www.youtube.com/@gwdg-goe" target="_blank">YouTube Videos</a>
+1. <a href="[https://www.youtube.com/@gwdg-goe](https://www.youtube.com/watch?v=Eyj7356rtdg&list=PLvcoSsXFNRblM4AG5PZwY1AfYEW3EbD9O)" target="_blank">YouTube Videos</a>
 
 2. <a href="https://gitlab-ce.gwdg.de/hpc-team-public/science-domains-blog/-/blob/main/20230417_cluster-practical.md" target="_blank">GitLab learning</a>
 
