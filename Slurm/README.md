@@ -3,7 +3,7 @@
 <a href="https://cvw.cac.cornell.edu/slurm/" target="_blank">Cornell University: Slurm</a>
 
 
-** University of Göttingen & Max Planck Society (GWDG):
+<b>University of Göttingen & Max Planck Society (GWDG):</b>
 
 1. <a href="https://www.youtube.com/@gwdg-goe" target="_blank">YouTube Videos</a>
 
@@ -12,7 +12,7 @@
 3. <a href="https://gitlab-ce.gwdg.de/hpc-team-public/deep-learning-with-gpu-cores" target="_blank">GitLab Codes</a>
 
  
-** Cornell University
+<b>Cornell University:</b>
 
 1. <a href="https://cvw.cac.cornell.edu/frontera" target="_blank">Getting Started on Frontera</a>
 
