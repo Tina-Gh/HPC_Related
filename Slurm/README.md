@@ -24,3 +24,8 @@
 
 5. <a href="https://frontera-portal.tacc.utexas.edu/allocations/" target="_blank">University of Texas Advanced Computing Center (TACC) Allocation Request</a>
 
+
+<b>Princeton University:</b>
+ <a href="https://researchcomputing.princeton.edu/support/knowledge-base/slurm#Why-Won-t-My-Job-Run-" target="_blank">Learning</a>
+
+
